@@ -11,4 +11,4 @@ name = "frut_std"
 path = "src/lib.rs"
 
 [dependencies]
-frut_lib = { path = "../frut_lib", features = ["std"] }
+frut_lib = { version="0.0.3", features = ["std"] }
