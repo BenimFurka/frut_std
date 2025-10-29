@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["BenimFurka"]
 description = "Standard library for the Frut language"
 license = "Apache-2.0"
+repository = "https://github.com/BenimFurka/frut_std"
 
 [lib]
 name = "frut_std"
