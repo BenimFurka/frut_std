@@ -10,7 +10,7 @@ Standard library for the Frut programming language. Provides built-in functions,
 Add this to your `Cargo.toml`:
 ```toml
 [dependencies]
-frut_std = "0.0.3"
+frut_std = "0.0.4"
 ```
 Or use this comand:
 ```bash
